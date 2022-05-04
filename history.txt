@@ -1,0 +1,207 @@
+    1  /cita/local/bin/passwd
+    2  quit
+    3  /var/spool/mail/student06
+    4  /var
+    5  cd /var
+    6  cd /var/
+    7  /var/spool/mail/student06/
+    8  /var/spool/mail
+    9  clear
+   10  whoami
+   11  w
+   12  who
+   13  clear
+   14  pwd
+   15  ls
+   16  cd /Desktop
+   17  cd Desktop/
+   18  pwd
+   19  ~
+   20  cd ~
+   21  pwd
+   22  ls
+   23  cd D
+   24  cd Desktop/
+   25  mkdir surp2022
+   26  ls
+   27  cd surp2022/
+   28  cd ..
+   29  clear
+   30  echo $0
+   31  ls
+   32  rm -rf surp2022/
+   33  clear
+   34  pwd
+   35  cd..
+   36  cd ..
+   37  pwd
+   38  ls -la
+   39  pwd
+   40  python3
+   41  python3 --version
+   42  module avail
+   43  module load gcc
+   44  gcc --version
+   45  module load pyhton
+   46  module load python
+   47  python --version
+   48  clear
+   49  pwd
+   50  ls
+   51  la -la
+   52  ls -la
+   53  cd /mnt
+   54  ls
+   55  cd scratch-lustre/
+   56  ls
+   57  cd student06
+   58  ls
+   59  ls -la
+   60  pwd
+   61  ls -la
+   62  mkdir assignment_1
+   63  ls -la
+   64  la -la > README.md
+   65  cat > README.md
+   66  ls -la
+   67  rm README.md 
+   68  cd assignment_1/
+   69  cat > README.md
+   70  vi README.md 
+   71  find Hello_world.c
+   72  pwd
+   73  cd ..
+   74  ls -la
+   75  cd ..
+   76  ls -la
+   77  cd murray/
+   78  ls -la
+   79  pwd
+   80  cd ~
+   81  pwd
+   82  cd ..
+   83  ls
+   84  pwd
+   85  cd murray/
+   86  ls -la
+   87  pwd
+   88  la -la
+   89  ls -la
+   90  find Hello_world
+   91  find -name Hello_world
+   92  find -name Hello_world.c
+   93  find -name Hello_world.py
+   94  ls *.c
+   95  find -name Hello_world.py | grep *.py
+   96  find . -name Hello_world.c
+   97  pwd
+   98  find . -name *.c
+   99  find . -name Hello_world.c
+  100  find . -type f -name "*.c"
+  101  find . -type f -name "Hello_world.c"
+  102  find . -name Hello_world.c
+  103  find . -name Hello_world.py
+  104  find -name Oracle
+  105  clear
+  106  pwd
+  107  ls -la
+  108  cd ./.OracleCalendar/
+  109  pwd
+  110  find . -name "Hello_*" 2> /dev/null
+  111  cd ./tmp/
+  112  ls -la
+  113* 
+  114  pwd
+  115  cp Hello_world.py /home/student06/assignment_!
+  116  cp Hello_world.py /home/student06/assignment_1
+  117  cd ..
+  118  cd student06
+  119  ls -la
+  120  cd ..
+  121  pwd
+  122  cd mnt/
+  123  cs mnt
+  124  cd /mnt
+  125  cd ..
+  126  pwd
+  127  cd mnt/
+  128  ls
+  129  cd ..
+  130  cd home/
+  131  ls -la
+  132  ls
+  133  cd student06
+  134  ls
+  135  rm -rf assignment_! assignment_1
+  136  ls
+  137  cd ..
+  138  pwd
+  139  cd ..
+  140  pwd
+  141  cd home/
+  142  cd murray/
+  143  find . -name "Hello_*" 2> /dev/null
+  144  cd tmp/
+  145  pwd
+  146  cd ../../..
+  147  cd mnt/
+  148  ls
+  149  cd scratch-lustre/
+  150  ls
+  151  cd student06
+  152  ls
+  153  pwd
+  154  cd ../../..
+  155  pwd
+  156  cd home/
+  157  pwd
+  158  cd murray/
+  159  find . -name "Hello_*" 2> /dev/null
+  160  cd tmp/
+  161  cp Hello_world.py /mnt/scratch-lustre/student06/assignment_1/
+  162  cd..
+  163  cd ..
+  164  pwd
+  165  find . -name "Hello_*" 2> /dev/null
+  166  cd Papers/tmp/
+  167  cp Hello_world.c /mnt/scratch-lustre/student06/assignment_1/
+  168  cd ../..
+  169  pwd
+  170  cd ../..
+  171  pwd
+  172  cd mnt/
+  173  cd scratch-lustre/
+  174  cd student06
+  175  ls
+  176  cd assignment_1/
+  177  ls
+  178  mv Hello_world.c Hello_world_Bansal.c
+  179  mv Hello_world.py Hello_world_Bansal.py
+  180  ls
+  181  gcc Hello_world_Bansal.c
+  182  ls
+  183  mv a.out Hellow_world.x
+  184  ls
+  185  Hellow_world.x
+  186  Hello_world_Bansal.py
+  187  python Hello_world_Bansal.py
+  188  gcc Hellow_world.x
+  189  ./Hellow_world.x
+  190  ls
+  191  cleaer
+  192  clear
+  193  ls
+  194  vi Hello_world_Bansal.c
+  195  vi Hello_world_Bansal.py
+  196  gcc Hello_world_Bansal.c
+  197  ls
+  198  ./a.out 
+  199  python Hello_world.py
+  200  python Hello_world_Bansal.py
+  201  python Hello_world_Bansal.py > output_python.txt
+  202  ls
+  203  cat output_python.txt 
+  204  ./a.out > output_c.txt
+  205  ls
+  206  history 
+  207  history > history.txt
